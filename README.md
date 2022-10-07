@@ -9,22 +9,22 @@ This is a repository for Udacity Data Analyst Project 2 (Data Wrangling). The da
 
 The libraries/packages used on this project include:
 
-* Pandas – For storing and manipulating structured data. Pandas functionality is built on NumPy (upgrade to version 0.25.1)
-* Numpy – For multi-dimensional array, matrix data structures and, performing mathematical operations
-* Matplotlib – For all visualizations
-* Tweepy - open-sourced, easy-to-use for accessing the Twitter API. It gives you an interface to access the API from your Python application.
-* Requests - allows you to send HTTP requests using Python.
-* os - For interacting with the operating system
-* json - For parsing JSON into a Python dictionary or list. It can also convert Python dictionaries or lists into JSON strings.
-* re - provides a set of powerful regular expression facilities, which allows one to quickly check whether a given string matches a given pattern (using the match function), or contains such a pattern (using the search function).
+* Pandas
+* Numpy
+* Matplotlib
+* Tweepy
+* Requests
+* os
+* json
+* re
 
 # Introduction
 
-I gathered data using three different methods in this project;
+Data gathering was done using three methods:
 
 1. Using pandas read_csv
 2. Using Requests library to gather image predictions data
-3. Tweepy library to gather additional data via Twitter API, in which the three datasets were assessed and cleaned individually, then later merged as one.
+3. Tweepy library to gather additional data via Twitter API.
 
 # Project Methodology
 
